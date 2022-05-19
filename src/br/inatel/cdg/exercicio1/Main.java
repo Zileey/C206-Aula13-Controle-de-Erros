@@ -3,7 +3,7 @@ package br.inatel.cdg.exercicio1;
 public class Main {
     public static void main(String[] args) {
         Cliente cliente1 = new Cliente("João",465461656);
-        Cliente cliente2 = new Cliente("Pedro",5919155123);
+        Cliente cliente2 = new Cliente("Pedro",59155123);
         Cliente cliente3 = null;
 
         Conta conta = new Conta(1500,500);
